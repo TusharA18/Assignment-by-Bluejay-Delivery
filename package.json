@@ -1,0 +1,21 @@
+{
+   "name": "assignment",
+   "version": "1.0.0",
+   "description": "",
+   "main": "app.js",
+   "type": "module",
+   "scripts": {
+      "start": "vite --port 3000"
+   },
+   "author": "Tushar Awasthi",
+   "license": "ISC",
+   "devDependencies": {
+      "autoprefixer": "^10.4.16",
+      "postcss": "^8.4.31",
+      "tailwindcss": "^3.3.3",
+      "vite": "^4.4.9"
+   },
+   "dependencies": {
+      "read-excel-file": "^5.6.1"
+   }
+}
